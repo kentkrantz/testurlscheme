@@ -1,0 +1,8 @@
+Package: com.yourcompany.testurlscheme
+Name: testurlscheme
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: Kent
+Author: Kent
+Section: Utilities
